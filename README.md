@@ -1,2 +1,0 @@
-Forget this
-hello ubuntu
